@@ -1,0 +1,17 @@
+[
+{
+  "modid": "craftingcatalysts",
+  "name": "Crafting Catalysts",
+  "description": "Adds crafting only items. Can be used to gate crafting like some items in Avaritia. Requires a way to change recipies, something like CraftTweaker.",
+  "version": "1.12.2-1.1",
+  "mcversion": "1.12.2",
+  "logoFile": "assets/craftingcatalysts/textures/logo.png",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Dee_S"],
+  "credits": "Thank's to Cubicoder for their 1.12.2 modding tutorial.",
+  "parent": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

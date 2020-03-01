@@ -1,0 +1,13 @@
+Unsupposrted library path: C:\Users\Dee\Desktop\ModdingWorkspace\CraftingCatalysts\build\classes\java\api
+Unsupposrted library path: C:\Users\Dee\Desktop\ModdingWorkspace\CraftingCatalysts\build\resources\api
+Symbol range map extraction starting
+Processing 3 files
+startProcessing "com/dschaedler/craftingcatalysts/CraftingCatalysts.java" md5: 0c999a3686d4ac9d40c0ad99f9b21841
+endProcessing "com/dschaedler/craftingcatalysts/CraftingCatalysts.java"
+
+startProcessing "com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java" md5: b5d245f4d1804547c8c031fbd21f564f
+endProcessing "com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java"
+
+startProcessing "com/dschaedler/craftingcatalysts/init/ModItems.java" md5: 092014436dcc767310a2cf75a7992633
+endProcessing "com/dschaedler/craftingcatalysts/init/ModItems.java"
+

@@ -1,0 +1,284 @@
+Unsupposrted library path: C:\Users\Dee\Desktop\ModdingWorkspace\CraftingCatalysts\build\classes\java\api
+Unsupposrted library path: C:\Users\Dee\Desktop\ModdingWorkspace\CraftingCatalysts\build\resources\api
+Symbol range map extraction starting
+Processing 3 files
+startProcessing "com/dschaedler/craftingcatalysts/CraftingCatalysts.java" md5: 0c999a3686d4ac9d40c0ad99f9b21841
+@|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|8|40|com.dschaedler.craftingcatalysts|package|com.dschaedler.craftingcatalysts|(file)
+Class Start: com.dschaedler.craftingcatalysts.CraftingCatalysts
+   @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|446|449|Mod|class|net.minecraftforge.fml.common.Mod|false
+   @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|450|455|modid|method|net.minecraftforge.fml.common.Mod|modid|()Ljava/lang/String;
+   @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|458|475|CraftingCatalysts|class|com.dschaedler.craftingcatalysts.CraftingCatalysts|false
+   @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|476|481|MODID|field|com.dschaedler.craftingcatalysts.CraftingCatalysts|MODID
+   @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|483|487|name|method|net.minecraftforge.fml.common.Mod|name|()Ljava/lang/String;
+   @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|490|507|CraftingCatalysts|class|com.dschaedler.craftingcatalysts.CraftingCatalysts|false
+   @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|508|512|NAME|field|com.dschaedler.craftingcatalysts.CraftingCatalysts|NAME
+   @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|514|521|version|method|net.minecraftforge.fml.common.Mod|version|()Ljava/lang/String;
+   @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|524|541|CraftingCatalysts|class|com.dschaedler.craftingcatalysts.CraftingCatalysts|false
+   @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|542|549|VERSION|field|com.dschaedler.craftingcatalysts.CraftingCatalysts|VERSION
+   @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|551|576|acceptedMinecraftVersions|method|net.minecraftforge.fml.common.Mod|acceptedMinecraftVersions|()Ljava/lang/String;
+   @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|579|596|CraftingCatalysts|class|com.dschaedler.craftingcatalysts.CraftingCatalysts|false
+   @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|597|607|MC_VERSION|field|com.dschaedler.craftingcatalysts.CraftingCatalysts|MC_VERSION
+   @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|623|640|CraftingCatalysts|class|com.dschaedler.craftingcatalysts.CraftingCatalysts|false
+   @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|668|674|String|class|java.lang.String|false
+   @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|668|674|String|class|java.lang.String|false
+   @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|675|680|MODID|field|com.dschaedler.craftingcatalysts.CraftingCatalysts|MODID|
+   @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|726|732|String|class|java.lang.String|false
+   @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|726|732|String|class|java.lang.String|false
+   @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|733|737|NAME|field|com.dschaedler.craftingcatalysts.CraftingCatalysts|NAME|
+   @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|784|790|String|class|java.lang.String|false
+   @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|784|790|String|class|java.lang.String|false
+   @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|791|798|VERSION|field|com.dschaedler.craftingcatalysts.CraftingCatalysts|VERSION|
+   @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|832|838|String|class|java.lang.String|false
+   @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|832|838|String|class|java.lang.String|false
+   @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|839|849|MC_VERSION|field|com.dschaedler.craftingcatalysts.CraftingCatalysts|MC_VERSION|
+   @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|889|895|Logger|class|org.apache.logging.log4j.Logger|false
+   @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|889|895|Logger|class|org.apache.logging.log4j.Logger|false
+   @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|896|902|LOGGER|field|com.dschaedler.craftingcatalysts.CraftingCatalysts|LOGGER|
+   @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|905|915|LogManager|class|org.apache.logging.log4j.LogManager|false
+   @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|916|925|getLogger|method|org.apache.logging.log4j.LogManager|getLogger|(Ljava/lang/String;)Lorg/apache/logging/log4j/Logger;
+   @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|926|943|CraftingCatalysts|class|com.dschaedler.craftingcatalysts.CraftingCatalysts|false
+   @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|944|949|MODID|field|com.dschaedler.craftingcatalysts.CraftingCatalysts|MODID
+   Method Start: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|1019|1024|event|param|com.dschaedler.craftingcatalysts.CraftingCatalysts|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|958|970|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler|false
+      @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|985|992|preInit|method|com.dschaedler.craftingcatalysts.CraftingCatalysts|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|993|1018|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent|false
+   Method End: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+   Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|1097|1102|event|param|com.dschaedler.craftingcatalysts.CraftingCatalysts|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|1042|1054|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler|false
+      @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|1069|1073|init|method|com.dschaedler.craftingcatalysts.CraftingCatalysts|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|1074|1096|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent|false
+      @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|1109|1115|LOGGER|field|com.dschaedler.craftingcatalysts.CraftingCatalysts|LOGGER
+      @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|1116|1120|info|method|org.apache.logging.log4j.Logger|info|(Ljava/lang/String;)V
+   Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+   Method Start: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|1237|1242|event|param|com.dschaedler.craftingcatalysts.CraftingCatalysts|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|event|0
+      @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|1174|1186|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler|false
+      @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|1201|1209|postInit|method|com.dschaedler.craftingcatalysts.CraftingCatalysts|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|com/dschaedler/craftingcatalysts/CraftingCatalysts.java|1210|1236|FMLPostInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPostInitializationEvent|false
+   Method End: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+Class End  : com.dschaedler.craftingcatalysts.CraftingCatalysts
+endProcessing "com/dschaedler/craftingcatalysts/CraftingCatalysts.java"
+
+startProcessing "com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java" md5: b5d245f4d1804547c8c031fbd21f564f
+@|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|8|47|com.dschaedler.craftingcatalysts.client|package|com.dschaedler.craftingcatalysts.client|(file)
+Class Start: com.dschaedler.craftingcatalysts.client.ModelRegistrationHandler
+   @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|571|589|EventBusSubscriber|class|net.minecraftforge.fml.common.Mod.EventBusSubscriber|false
+   @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|590|595|value|method|net.minecraftforge.fml.common.Mod.EventBusSubscriber|value|()[Lnet/minecraftforge/fml/relauncher/Side;
+   @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|598|602|Side|class|net.minecraftforge.fml.relauncher.Side|false
+   @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|603|609|CLIENT|field|net.minecraftforge.fml.relauncher.Side|CLIENT
+   @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|611|616|modid|method|net.minecraftforge.fml.common.Mod.EventBusSubscriber|modid|()Ljava/lang/String;
+   @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|619|636|CraftingCatalysts|class|com.dschaedler.craftingcatalysts.CraftingCatalysts|false
+   @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|637|642|MODID|field|com.dschaedler.craftingcatalysts.CraftingCatalysts|MODID
+   @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|658|682|ModelRegistrationHandler|class|com.dschaedler.craftingcatalysts.client.ModelRegistrationHandler|false
+   Method Start: registerModels(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|761|766|event|param|com.dschaedler.craftingcatalysts.client.ModelRegistrationHandler|registerModels|(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V|event|0
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|691|705|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent|false
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|727|741|registerModels|method|com.dschaedler.craftingcatalysts.client.ModelRegistrationHandler|registerModels|(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|742|760|ModelRegistryEvent|class|net.minecraftforge.client.event.ModelRegistryEvent|false
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|773|786|registerModel|method|com.dschaedler.craftingcatalysts.client.ModelRegistrationHandler|registerModel|(Lnet/minecraft/item/Item;I)V
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|787|795|ModItems|class|com.dschaedler.craftingcatalysts.init.ModItems|false
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|796|813|TIER_ONE_CATALYST|field|com.dschaedler.craftingcatalysts.init.ModItems|TIER_ONE_CATALYST
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|822|835|registerModel|method|com.dschaedler.craftingcatalysts.client.ModelRegistrationHandler|registerModel|(Lnet/minecraft/item/Item;I)V
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|836|844|ModItems|class|com.dschaedler.craftingcatalysts.init.ModItems|false
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|845|862|TIER_TWO_CATALYST|field|com.dschaedler.craftingcatalysts.init.ModItems|TIER_TWO_CATALYST
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|871|884|registerModel|method|com.dschaedler.craftingcatalysts.client.ModelRegistrationHandler|registerModel|(Lnet/minecraft/item/Item;I)V
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|885|893|ModItems|class|com.dschaedler.craftingcatalysts.init.ModItems|false
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|894|913|TIER_THREE_CATALYST|field|com.dschaedler.craftingcatalysts.init.ModItems|TIER_THREE_CATALYST
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|922|935|registerModel|method|com.dschaedler.craftingcatalysts.client.ModelRegistrationHandler|registerModel|(Lnet/minecraft/item/Item;I)V
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|936|944|ModItems|class|com.dschaedler.craftingcatalysts.init.ModItems|false
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|945|963|TIER_FOUR_CATALYST|field|com.dschaedler.craftingcatalysts.init.ModItems|TIER_FOUR_CATALYST
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|972|985|registerModel|method|com.dschaedler.craftingcatalysts.client.ModelRegistrationHandler|registerModel|(Lnet/minecraft/item/Item;I)V
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|986|994|ModItems|class|com.dschaedler.craftingcatalysts.init.ModItems|false
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|995|1013|TIER_FIVE_CATALYST|field|com.dschaedler.craftingcatalysts.init.ModItems|TIER_FIVE_CATALYST
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|1022|1035|registerModel|method|com.dschaedler.craftingcatalysts.client.ModelRegistrationHandler|registerModel|(Lnet/minecraft/item/Item;I)V
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|1036|1044|ModItems|class|com.dschaedler.craftingcatalysts.init.ModItems|false
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|1045|1062|TIER_SIX_CATALYST|field|com.dschaedler.craftingcatalysts.init.ModItems|TIER_SIX_CATALYST
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|1071|1084|registerModel|method|com.dschaedler.craftingcatalysts.client.ModelRegistrationHandler|registerModel|(Lnet/minecraft/item/Item;I)V
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|1085|1093|ModItems|class|com.dschaedler.craftingcatalysts.init.ModItems|false
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|1094|1113|TIER_SEVEN_CATALYST|field|com.dschaedler.craftingcatalysts.init.ModItems|TIER_SEVEN_CATALYST
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|1122|1135|registerModel|method|com.dschaedler.craftingcatalysts.client.ModelRegistrationHandler|registerModel|(Lnet/minecraft/item/Item;I)V
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|1136|1144|ModItems|class|com.dschaedler.craftingcatalysts.init.ModItems|false
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|1145|1164|TIER_EIGHT_CATALYST|field|com.dschaedler.craftingcatalysts.init.ModItems|TIER_EIGHT_CATALYST
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|1173|1186|registerModel|method|com.dschaedler.craftingcatalysts.client.ModelRegistrationHandler|registerModel|(Lnet/minecraft/item/Item;I)V
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|1187|1195|ModItems|class|com.dschaedler.craftingcatalysts.init.ModItems|false
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|1196|1214|TIER_NINE_CATALYST|field|com.dschaedler.craftingcatalysts.init.ModItems|TIER_NINE_CATALYST
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|1223|1236|registerModel|method|com.dschaedler.craftingcatalysts.client.ModelRegistrationHandler|registerModel|(Lnet/minecraft/item/Item;I)V
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|1237|1245|ModItems|class|com.dschaedler.craftingcatalysts.init.ModItems|false
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|1246|1263|TIER_TEN_CATALYST|field|com.dschaedler.craftingcatalysts.init.ModItems|TIER_TEN_CATALYST
+   Method End: registerModels(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+   Method Start: registerModel(Lnet/minecraft/item/Item;I)V
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|1317|1321|item|param|com.dschaedler.craftingcatalysts.client.ModelRegistrationHandler|registerModel|(Lnet/minecraft/item/Item;I)V|item|0
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|1327|1331|meta|param|com.dschaedler.craftingcatalysts.client.ModelRegistrationHandler|registerModel|(Lnet/minecraft/item/Item;I)V|meta|1
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|1298|1311|registerModel|method|com.dschaedler.craftingcatalysts.client.ModelRegistrationHandler|registerModel|(Lnet/minecraft/item/Item;I)V
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|1312|1316|Item|class|net.minecraft.item.Item|false
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|1338|1349|ModelLoader|class|net.minecraftforge.client.model.ModelLoader|false
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|1350|1380|setCustomModelResourceLocation|method|net.minecraftforge.client.model.ModelLoader|setCustomModelResourceLocation|(Lnet/minecraft/item/Item;ILnet/minecraft/client/renderer/block/model/ModelResourceLocation;)V
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|1381|1385|item|param|com.dschaedler.craftingcatalysts.client.ModelRegistrationHandler|registerModel|(Lnet/minecraft/item/Item;I)V|item|0
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|1387|1391|meta|param|com.dschaedler.craftingcatalysts.client.ModelRegistrationHandler|registerModel|(Lnet/minecraft/item/Item;I)V|meta|1
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|1402|1423|ModelResourceLocation|class|net.minecraft.client.renderer.block.model.ModelResourceLocation|false
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|1424|1428|item|param|com.dschaedler.craftingcatalysts.client.ModelRegistrationHandler|registerModel|(Lnet/minecraft/item/Item;I)V|item|0
+      @|com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java|1429|1444|getRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|getRegistryName|()Lnet/minecraft/util/ResourceLocation;
+   Method End: registerModel(Lnet/minecraft/item/Item;I)V
+Class End  : com.dschaedler.craftingcatalysts.client.ModelRegistrationHandler
+endProcessing "com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java"
+
+startProcessing "com/dschaedler/craftingcatalysts/init/ModItems.java" md5: 092014436dcc767310a2cf75a7992633
+@|com/dschaedler/craftingcatalysts/init/ModItems.java|8|45|com.dschaedler.craftingcatalysts.init|package|com.dschaedler.craftingcatalysts.init|(file)
+Class Start: com.dschaedler.craftingcatalysts.init.ModItems
+   @|com/dschaedler/craftingcatalysts/init/ModItems.java|458|470|ObjectHolder|class|net.minecraftforge.fml.common.registry.GameRegistry.ObjectHolder|false
+   @|com/dschaedler/craftingcatalysts/init/ModItems.java|471|488|CraftingCatalysts|class|com.dschaedler.craftingcatalysts.CraftingCatalysts|false
+   @|com/dschaedler/craftingcatalysts/init/ModItems.java|489|494|MODID|field|com.dschaedler.craftingcatalysts.CraftingCatalysts|MODID
+   @|com/dschaedler/craftingcatalysts/init/ModItems.java|510|518|ModItems|class|com.dschaedler.craftingcatalysts.init.ModItems|false
+   @|com/dschaedler/craftingcatalysts/init/ModItems.java|546|550|Item|class|net.minecraft.item.Item|false
+   @|com/dschaedler/craftingcatalysts/init/ModItems.java|546|550|Item|class|net.minecraft.item.Item|false
+   @|com/dschaedler/craftingcatalysts/init/ModItems.java|551|568|TIER_ONE_CATALYST|field|com.dschaedler.craftingcatalysts.init.ModItems|TIER_ONE_CATALYST|
+   @|com/dschaedler/craftingcatalysts/init/ModItems.java|599|603|Item|class|net.minecraft.item.Item|false
+   @|com/dschaedler/craftingcatalysts/init/ModItems.java|599|603|Item|class|net.minecraft.item.Item|false
+   @|com/dschaedler/craftingcatalysts/init/ModItems.java|604|621|TIER_TWO_CATALYST|field|com.dschaedler.craftingcatalysts.init.ModItems|TIER_TWO_CATALYST|
+   @|com/dschaedler/craftingcatalysts/init/ModItems.java|652|656|Item|class|net.minecraft.item.Item|false
+   @|com/dschaedler/craftingcatalysts/init/ModItems.java|652|656|Item|class|net.minecraft.item.Item|false
+   @|com/dschaedler/craftingcatalysts/init/ModItems.java|657|676|TIER_THREE_CATALYST|field|com.dschaedler.craftingcatalysts.init.ModItems|TIER_THREE_CATALYST|
+   @|com/dschaedler/craftingcatalysts/init/ModItems.java|707|711|Item|class|net.minecraft.item.Item|false
+   @|com/dschaedler/craftingcatalysts/init/ModItems.java|707|711|Item|class|net.minecraft.item.Item|false
+   @|com/dschaedler/craftingcatalysts/init/ModItems.java|712|730|TIER_FOUR_CATALYST|field|com.dschaedler.craftingcatalysts.init.ModItems|TIER_FOUR_CATALYST|
+   @|com/dschaedler/craftingcatalysts/init/ModItems.java|761|765|Item|class|net.minecraft.item.Item|false
+   @|com/dschaedler/craftingcatalysts/init/ModItems.java|761|765|Item|class|net.minecraft.item.Item|false
+   @|com/dschaedler/craftingcatalysts/init/ModItems.java|766|784|TIER_FIVE_CATALYST|field|com.dschaedler.craftingcatalysts.init.ModItems|TIER_FIVE_CATALYST|
+   @|com/dschaedler/craftingcatalysts/init/ModItems.java|815|819|Item|class|net.minecraft.item.Item|false
+   @|com/dschaedler/craftingcatalysts/init/ModItems.java|815|819|Item|class|net.minecraft.item.Item|false
+   @|com/dschaedler/craftingcatalysts/init/ModItems.java|820|837|TIER_SIX_CATALYST|field|com.dschaedler.craftingcatalysts.init.ModItems|TIER_SIX_CATALYST|
+   @|com/dschaedler/craftingcatalysts/init/ModItems.java|868|872|Item|class|net.minecraft.item.Item|false
+   @|com/dschaedler/craftingcatalysts/init/ModItems.java|868|872|Item|class|net.minecraft.item.Item|false
+   @|com/dschaedler/craftingcatalysts/init/ModItems.java|873|892|TIER_SEVEN_CATALYST|field|com.dschaedler.craftingcatalysts.init.ModItems|TIER_SEVEN_CATALYST|
+   @|com/dschaedler/craftingcatalysts/init/ModItems.java|923|927|Item|class|net.minecraft.item.Item|false
+   @|com/dschaedler/craftingcatalysts/init/ModItems.java|923|927|Item|class|net.minecraft.item.Item|false
+   @|com/dschaedler/craftingcatalysts/init/ModItems.java|928|947|TIER_EIGHT_CATALYST|field|com.dschaedler.craftingcatalysts.init.ModItems|TIER_EIGHT_CATALYST|
+   @|com/dschaedler/craftingcatalysts/init/ModItems.java|978|982|Item|class|net.minecraft.item.Item|false
+   @|com/dschaedler/craftingcatalysts/init/ModItems.java|978|982|Item|class|net.minecraft.item.Item|false
+   @|com/dschaedler/craftingcatalysts/init/ModItems.java|983|1001|TIER_NINE_CATALYST|field|com.dschaedler.craftingcatalysts.init.ModItems|TIER_NINE_CATALYST|
+   @|com/dschaedler/craftingcatalysts/init/ModItems.java|1032|1036|Item|class|net.minecraft.item.Item|false
+   @|com/dschaedler/craftingcatalysts/init/ModItems.java|1032|1036|Item|class|net.minecraft.item.Item|false
+   @|com/dschaedler/craftingcatalysts/init/ModItems.java|1037|1054|TIER_TEN_CATALYST|field|com.dschaedler.craftingcatalysts.init.ModItems|TIER_TEN_CATALYST|
+   Class Start: com.dschaedler.craftingcatalysts.init.ModItems.RegistrationHandler
+      @|com/dschaedler/craftingcatalysts/init/ModItems.java|1069|1087|EventBusSubscriber|class|net.minecraftforge.fml.common.Mod.EventBusSubscriber|false
+      @|com/dschaedler/craftingcatalysts/init/ModItems.java|1088|1093|modid|method|net.minecraftforge.fml.common.Mod.EventBusSubscriber|modid|()Ljava/lang/String;
+      @|com/dschaedler/craftingcatalysts/init/ModItems.java|1096|1113|CraftingCatalysts|class|com.dschaedler.craftingcatalysts.CraftingCatalysts|false
+      @|com/dschaedler/craftingcatalysts/init/ModItems.java|1114|1119|MODID|field|com.dschaedler.craftingcatalysts.CraftingCatalysts|MODID
+      @|com/dschaedler/craftingcatalysts/init/ModItems.java|1143|1162|RegistrationHandler|class|com.dschaedler.craftingcatalysts.init.ModItems.RegistrationHandler|false
+      Method Start: RegisterItems(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1239|1244|event|param|com.dschaedler.craftingcatalysts.init.ModItems.RegistrationHandler|RegisterItems|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1173|1187|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1210|1223|RegisterItems|method|com.dschaedler.craftingcatalysts.init.ModItems.RegistrationHandler|RegisterItems|(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1224|1232|Register|class|net.minecraftforge.event.RegistryEvent.Register|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1233|1237|Item|class|net.minecraft.item.Item|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1258|1262|Item|class|net.minecraft.item.Item|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1285|1289|Item|class|net.minecraft.item.Item|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1292|1307|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1308|1325|CraftingCatalysts|class|com.dschaedler.craftingcatalysts.CraftingCatalysts|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1326|1331|MODID|field|com.dschaedler.craftingcatalysts.CraftingCatalysts|MODID
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1354|1371|setTranslationKey|method|net.minecraft.item.Item|setTranslationKey|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1372|1389|CraftingCatalysts|class|com.dschaedler.craftingcatalysts.CraftingCatalysts|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1390|1395|MODID|field|com.dschaedler.craftingcatalysts.CraftingCatalysts|MODID
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1425|1439|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1440|1452|CreativeTabs|class|net.minecraft.creativetab.CreativeTabs|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1453|1457|MISC|field|net.minecraft.creativetab.CreativeTabs|MISC
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1470|1474|Item|class|net.minecraft.item.Item|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1477|1492|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1493|1510|CraftingCatalysts|class|com.dschaedler.craftingcatalysts.CraftingCatalysts|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1511|1516|MODID|field|com.dschaedler.craftingcatalysts.CraftingCatalysts|MODID
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1539|1556|setTranslationKey|method|net.minecraft.item.Item|setTranslationKey|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1557|1574|CraftingCatalysts|class|com.dschaedler.craftingcatalysts.CraftingCatalysts|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1575|1580|MODID|field|com.dschaedler.craftingcatalysts.CraftingCatalysts|MODID
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1610|1624|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1625|1637|CreativeTabs|class|net.minecraft.creativetab.CreativeTabs|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1638|1642|MISC|field|net.minecraft.creativetab.CreativeTabs|MISC
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1655|1659|Item|class|net.minecraft.item.Item|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1662|1677|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1678|1695|CraftingCatalysts|class|com.dschaedler.craftingcatalysts.CraftingCatalysts|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1696|1701|MODID|field|com.dschaedler.craftingcatalysts.CraftingCatalysts|MODID
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1726|1743|setTranslationKey|method|net.minecraft.item.Item|setTranslationKey|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1744|1761|CraftingCatalysts|class|com.dschaedler.craftingcatalysts.CraftingCatalysts|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1762|1767|MODID|field|com.dschaedler.craftingcatalysts.CraftingCatalysts|MODID
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1799|1813|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1814|1826|CreativeTabs|class|net.minecraft.creativetab.CreativeTabs|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1827|1831|MISC|field|net.minecraft.creativetab.CreativeTabs|MISC
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1844|1848|Item|class|net.minecraft.item.Item|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1851|1866|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1867|1884|CraftingCatalysts|class|com.dschaedler.craftingcatalysts.CraftingCatalysts|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1885|1890|MODID|field|com.dschaedler.craftingcatalysts.CraftingCatalysts|MODID
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1914|1931|setTranslationKey|method|net.minecraft.item.Item|setTranslationKey|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1932|1949|CraftingCatalysts|class|com.dschaedler.craftingcatalysts.CraftingCatalysts|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1950|1955|MODID|field|com.dschaedler.craftingcatalysts.CraftingCatalysts|MODID
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|1986|2000|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2001|2013|CreativeTabs|class|net.minecraft.creativetab.CreativeTabs|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2014|2018|MISC|field|net.minecraft.creativetab.CreativeTabs|MISC
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2031|2035|Item|class|net.minecraft.item.Item|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2038|2053|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2054|2071|CraftingCatalysts|class|com.dschaedler.craftingcatalysts.CraftingCatalysts|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2072|2077|MODID|field|com.dschaedler.craftingcatalysts.CraftingCatalysts|MODID
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2101|2118|setTranslationKey|method|net.minecraft.item.Item|setTranslationKey|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2119|2136|CraftingCatalysts|class|com.dschaedler.craftingcatalysts.CraftingCatalysts|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2137|2142|MODID|field|com.dschaedler.craftingcatalysts.CraftingCatalysts|MODID
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2173|2187|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2188|2200|CreativeTabs|class|net.minecraft.creativetab.CreativeTabs|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2201|2205|MISC|field|net.minecraft.creativetab.CreativeTabs|MISC
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2218|2222|Item|class|net.minecraft.item.Item|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2225|2240|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2241|2258|CraftingCatalysts|class|com.dschaedler.craftingcatalysts.CraftingCatalysts|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2259|2264|MODID|field|com.dschaedler.craftingcatalysts.CraftingCatalysts|MODID
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2287|2304|setTranslationKey|method|net.minecraft.item.Item|setTranslationKey|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2305|2322|CraftingCatalysts|class|com.dschaedler.craftingcatalysts.CraftingCatalysts|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2323|2328|MODID|field|com.dschaedler.craftingcatalysts.CraftingCatalysts|MODID
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2358|2372|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2373|2385|CreativeTabs|class|net.minecraft.creativetab.CreativeTabs|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2386|2390|MISC|field|net.minecraft.creativetab.CreativeTabs|MISC
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2403|2407|Item|class|net.minecraft.item.Item|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2410|2425|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2426|2443|CraftingCatalysts|class|com.dschaedler.craftingcatalysts.CraftingCatalysts|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2444|2449|MODID|field|com.dschaedler.craftingcatalysts.CraftingCatalysts|MODID
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2474|2491|setTranslationKey|method|net.minecraft.item.Item|setTranslationKey|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2492|2509|CraftingCatalysts|class|com.dschaedler.craftingcatalysts.CraftingCatalysts|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2510|2515|MODID|field|com.dschaedler.craftingcatalysts.CraftingCatalysts|MODID
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2547|2561|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2562|2574|CreativeTabs|class|net.minecraft.creativetab.CreativeTabs|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2575|2579|MISC|field|net.minecraft.creativetab.CreativeTabs|MISC
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2592|2596|Item|class|net.minecraft.item.Item|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2599|2614|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2615|2632|CraftingCatalysts|class|com.dschaedler.craftingcatalysts.CraftingCatalysts|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2633|2638|MODID|field|com.dschaedler.craftingcatalysts.CraftingCatalysts|MODID
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2663|2680|setTranslationKey|method|net.minecraft.item.Item|setTranslationKey|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2681|2698|CraftingCatalysts|class|com.dschaedler.craftingcatalysts.CraftingCatalysts|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2699|2704|MODID|field|com.dschaedler.craftingcatalysts.CraftingCatalysts|MODID
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2736|2750|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2751|2763|CreativeTabs|class|net.minecraft.creativetab.CreativeTabs|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2764|2768|MISC|field|net.minecraft.creativetab.CreativeTabs|MISC
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2781|2785|Item|class|net.minecraft.item.Item|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2788|2803|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2804|2821|CraftingCatalysts|class|com.dschaedler.craftingcatalysts.CraftingCatalysts|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2822|2827|MODID|field|com.dschaedler.craftingcatalysts.CraftingCatalysts|MODID
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2851|2868|setTranslationKey|method|net.minecraft.item.Item|setTranslationKey|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2869|2886|CraftingCatalysts|class|com.dschaedler.craftingcatalysts.CraftingCatalysts|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2887|2892|MODID|field|com.dschaedler.craftingcatalysts.CraftingCatalysts|MODID
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2923|2937|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2938|2950|CreativeTabs|class|net.minecraft.creativetab.CreativeTabs|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2951|2955|MISC|field|net.minecraft.creativetab.CreativeTabs|MISC
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2968|2972|Item|class|net.minecraft.item.Item|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2975|2990|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|2991|3008|CraftingCatalysts|class|com.dschaedler.craftingcatalysts.CraftingCatalysts|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|3009|3014|MODID|field|com.dschaedler.craftingcatalysts.CraftingCatalysts|MODID
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|3037|3054|setTranslationKey|method|net.minecraft.item.Item|setTranslationKey|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|3055|3072|CraftingCatalysts|class|com.dschaedler.craftingcatalysts.CraftingCatalysts|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|3073|3078|MODID|field|com.dschaedler.craftingcatalysts.CraftingCatalysts|MODID
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|3108|3122|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|3123|3135|CreativeTabs|class|net.minecraft.creativetab.CreativeTabs|false
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|3136|3140|MISC|field|net.minecraft.creativetab.CreativeTabs|MISC
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|3158|3163|event|param|com.dschaedler.craftingcatalysts.init.ModItems.RegistrationHandler|RegisterItems|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|3164|3175|getRegistry|method|net.minecraftforge.event.RegistryEvent.Register|getRegistry|()Lnet/minecraftforge/registries/IForgeRegistry;
+         @|com/dschaedler/craftingcatalysts/init/ModItems.java|3178|3189|registerAll|method|net.minecraftforge.registries.IForgeRegistry|registerAll|([Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      Method End: RegisterItems(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+   Class End  : com.dschaedler.craftingcatalysts.init.ModItems.RegistrationHandler
+Class End  : com.dschaedler.craftingcatalysts.init.ModItems
+endProcessing "com/dschaedler/craftingcatalysts/init/ModItems.java"
+

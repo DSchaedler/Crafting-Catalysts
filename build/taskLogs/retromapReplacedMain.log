@@ -1,0 +1,66 @@
+Processing 3 files
+Start Processing: com/dschaedler/craftingcatalysts/CraftingCatalysts.java
+Import: org.apache.logging.log4j.Logger
+Import: org.apache.logging.log4j.LogManager
+Adding 5 imports
+        net.minecraftforge.fml.common.Mod
+        net.minecraftforge.fml.common.Mod.EventHandler
+        net.minecraftforge.fml.common.event.FMLInitializationEvent
+        net.minecraftforge.fml.common.event.FMLPostInitializationEvent
+        net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+End  Processing: com/dschaedler/craftingcatalysts/CraftingCatalysts.java
+
+Start Processing: com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java
+Import: com.dschaedler.craftingcatalysts.CraftingCatalysts
+Import: com.dschaedler.craftingcatalysts.init.ModItems
+Adding 7 imports
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraftforge.client.event.ModelRegistryEvent
+        net.minecraftforge.client.model.ModelLoader
+        net.minecraftforge.fml.common.Mod.EventBusSubscriber
+        net.minecraftforge.fml.common.eventhandler.SubscribeEvent
+        net.minecraftforge.fml.relauncher.Side
+End  Processing: com/dschaedler/craftingcatalysts/client/ModelRegistrationHandler.java
+
+Start Processing: com/dschaedler/craftingcatalysts/init/ModItems.java
+Rename method net/minecraft/item/Item/setTranslationKey (Ljava/lang/String;)Lnet/minecraft/item/Item;[1354,1371]::setTranslationKey->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1420,1434]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/MISC[1446,1450]::MISC->field_78026_f
+Rename method net/minecraft/item/Item/setTranslationKey (Ljava/lang/String;)Lnet/minecraft/item/Item;[1541,1558]::setTranslationKey->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1607,1621]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/MISC[1633,1637]::MISC->field_78026_f
+Rename method net/minecraft/item/Item/setTranslationKey (Ljava/lang/String;)Lnet/minecraft/item/Item;[1730,1747]::setTranslationKey->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1798,1812]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/MISC[1824,1828]::MISC->field_78026_f
+Rename method net/minecraft/item/Item/setTranslationKey (Ljava/lang/String;)Lnet/minecraft/item/Item;[1920,1937]::setTranslationKey->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1987,2001]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/MISC[2013,2017]::MISC->field_78026_f
+Rename method net/minecraft/item/Item/setTranslationKey (Ljava/lang/String;)Lnet/minecraft/item/Item;[2109,2126]::setTranslationKey->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[2176,2190]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/MISC[2202,2206]::MISC->field_78026_f
+Rename method net/minecraft/item/Item/setTranslationKey (Ljava/lang/String;)Lnet/minecraft/item/Item;[2297,2314]::setTranslationKey->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[2363,2377]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/MISC[2389,2393]::MISC->field_78026_f
+Rename method net/minecraft/item/Item/setTranslationKey (Ljava/lang/String;)Lnet/minecraft/item/Item;[2486,2503]::setTranslationKey->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[2554,2568]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/MISC[2580,2584]::MISC->field_78026_f
+Rename method net/minecraft/item/Item/setTranslationKey (Ljava/lang/String;)Lnet/minecraft/item/Item;[2677,2694]::setTranslationKey->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[2745,2759]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/MISC[2771,2775]::MISC->field_78026_f
+Rename method net/minecraft/item/Item/setTranslationKey (Ljava/lang/String;)Lnet/minecraft/item/Item;[2867,2884]::setTranslationKey->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[2934,2948]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/MISC[2960,2964]::MISC->field_78026_f
+Rename method net/minecraft/item/Item/setTranslationKey (Ljava/lang/String;)Lnet/minecraft/item/Item;[3055,3072]::setTranslationKey->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[3121,3135]::setCreativeTab->func_77637_a
+Rename field net/minecraft/creativetab/CreativeTabs/MISC[3147,3151]::MISC->field_78026_f
+Import: com.dschaedler.craftingcatalysts.CraftingCatalysts
+Adding 6 imports
+        net.minecraft.creativetab.CreativeTabs
+        net.minecraft.item.Item
+        net.minecraftforge.event.RegistryEvent.Register
+        net.minecraftforge.fml.common.Mod.EventBusSubscriber
+        net.minecraftforge.fml.common.eventhandler.SubscribeEvent
+        net.minecraftforge.fml.common.registry.GameRegistry.ObjectHolder
+End  Processing: com/dschaedler/craftingcatalysts/init/ModItems.java
+
